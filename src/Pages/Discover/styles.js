@@ -7,11 +7,12 @@ export const styles = StyleSheet.create({
   },
   title: {
     marginLeft: "2.5%",
+    marginTop: "3.7%" ,
     fontSize: 37,
     color: "#ffff",
   },
   indica: {
-    marginTop: "10%",
+    marginTop: "5.3%",
     flexDirection: "row",
     alignItems: "center",
     width: "100%",
@@ -20,11 +21,12 @@ export const styles = StyleSheet.create({
   button: {
     backgroundColor: "#782CE7",
     margin: "7%",
-    height: 38,
+    height: 40,
     justifyContent: "center",
     borderRadius: 15,
   },
   buttonStylo: {
+    marginTop: 6,
     flexDirection: "row",
     justifyContent: "space-between",
     flex: 1,
@@ -50,7 +52,7 @@ export const styles = StyleSheet.create({
     fontWeight: "100"
   },
   categorias:{
-    marginTop: "42%",
+    marginTop: 5,
     flexWrap: "wrap"
   },
   Cate:{
